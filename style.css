@@ -1,0 +1,59 @@
+#main {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+#title {
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-size: 36px;
+  margin-top: 40px;
+}
+#subtitle {
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+#img-div {
+  width: 80vw;
+  height: 50vw;
+  background-color: #ffffff;
+  padding: 100px 100px;
+  margin: 30px auto;
+  border: 0.1px solid black;
+  border-radius: 5px;
+}
+#img-caption {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#tribute-info {
+  font-family: "Roboto", sans-serif;
+  margin-top: 0px;
+}
+h4 {
+  text-align: center;
+}
+li {
+  display: list-item;
+  margin: 16px;
+}
+a {
+  display: block;
+  margin-top: 10px 200px;
+}
+
+#tribute-link-block {
+  margin-left: 50px;
+}
